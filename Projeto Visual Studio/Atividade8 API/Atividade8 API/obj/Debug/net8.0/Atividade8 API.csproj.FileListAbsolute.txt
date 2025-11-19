@@ -1,0 +1,35 @@
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\appsettings.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.staticwebassets.endpoints.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.exe
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.deps.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.runtimeconfig.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Atividade8 API.pdb
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.csproj.AssemblyReference.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.AssemblyInfoInputs.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.AssemblyInfo.cs
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.csproj.CoreCompileInputs.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\scopedcss\bundle\Atividade8 API.styles.css
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividad.90DA3672.Up2Date
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\refint\Atividade8 API.dll
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.pdb
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\Atividade8 API.genruntimeconfig.cache
+C:\Users\malup\OneDrive\Desktop\Projeto Visual Studio\Atividade8 API\Atividade8 API\obj\Debug\net8.0\ref\Atividade8 API.dll
